@@ -32,7 +32,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y estoy d
 
 ## 📬 Conecta conmigo  
 - **Correo:** [rocio.mora.garcia02@gmail.com]  
-- **LinkedIn:** ([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/roc%C3%ADo-mora-garc%C3%ADa-46b690185/))  
+- **LinkedIn:** ([https://linkedin.com/in/rociiomoraa]())  
 
 ---
 
