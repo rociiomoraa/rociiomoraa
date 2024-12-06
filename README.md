@@ -4,7 +4,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y estoy d
 ---
 
 ## 🛠️ Lo que estoy aprendiendo  
-- **Lenguajes de programación:** Java ☕ (¡mi primer lenguaje!)  
+- **Lenguajes de programación:** Java ☕ (¡mi primer lenguaje!), HTML y CSS.
 - **Herramientas:** Eclipse, GitGui, SQLDeveloper, IntelliJ DEA
 - **Fundamentos:** Programación orientada a objetos (POO), algoritmos y estructuras básicas  
 
