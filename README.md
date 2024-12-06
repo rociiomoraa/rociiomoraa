@@ -11,11 +11,11 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y estoy d
 ---
 
 ## 🌱 Proyectos pequeños que estoy construyendo  
-1. **[Calculadora Básica]()**  
+1. **[Calculadora Básica](https://github.com/rociiomoraa/Calculadora.git)**  
    Mi primera aplicación en Java. Una calculadora simple que realiza operaciones matemáticas básicas.  
    - 📂 Enfoque: Lógica básica y primeros pasos en programación.  
 
-2. **[PrincessQuest!]()**  
+2. **[PrincessQuest!](https://github.com/rociiomoraa/PrincessQuest.git)**  
    Un pequeño juego para el proyecto final de la primera evaluciación en Programación
    - 📂 Enfoque: Aplicar todo lo aprendido en el primer trimestre del grado.  
 ---
