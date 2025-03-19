@@ -1,41 +1,67 @@
-# 👩‍💻 ¡Hola! Soy [Rocío]  
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y estoy dando mis primeros pasos en el mundo del desarrollo de software. Me apasiona aprender sobre tecnología y cómo las aplicaciones pueden hacer la vida más fácil y emocionante. 🌟  
+# 👩‍💻 ¡Hola! Soy Rocío 🌺   
+
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y apasionada por la tecnología. Actualmente, estoy explorando el desarrollo de software con **Java**, construyendo aplicaciones y mejorando mis habilidades en programación.  
+
+Siempre estoy aprendiendo, experimentando y creando proyectos para mejorar mis habilidades. ¡Bienvenido/a a mi perfil de GitHub! 🚀  
 
 ---
 
-## 🛠️ Lo que estoy aprendiendo  
-- **Lenguajes de programación:** Java ☕ (¡mi primer lenguaje!), HTML y CSS.
-- **Herramientas:** Eclipse, GitGui, SQLDeveloper, IntelliJ DEA
-- **Fundamentos:** Programación orientada a objetos (POO), algoritmos y estructuras básicas  
+## 🚀 Tecnologías y herramientas que utilizo  
+
+### 📌 **Lenguajes de programación**  
+- Java ☕ *(Mi lenguaje principal y en constante aprendizaje)*  
+- HTML & CSS *(Para el diseño y estructura de interfaces web)*  
+
+### 📌 **Herramientas y entornos de desarrollo**  
+- IntelliJ IDEA, Eclipse, Git, SQL Developer  
+
+### 📌 **Conceptos que manejo**  
+- Programación Orientada a Objetos (POO)  
+- Algoritmos y estructuras de datos  
+- Gestión de bases de datos  
 
 ---
 
-## 🌱 Proyectos pequeños que estoy construyendo  
-1. **[Calculadora Básica](https://github.com/rociiomoraa/Calculadora.git)**  
-   Mi primera aplicación en Java. Una calculadora simple que realiza operaciones matemáticas básicas.  
-   - 📂 Enfoque: Lógica básica y primeros pasos en programación.  
+## 🌟 Proyectos destacados  
 
-2. **[PrincessQuest!](https://github.com/rociiomoraa/PrincessQuest.git)**  
-   Un pequeño juego para el proyecto final de la primera evaluciación en Programación
-   - 📂 Enfoque: Aplicar todo lo aprendido en el primer trimestre del grado.  
----
+### 🎵 **[Gestor de Música en Java](https://github.com/rociiomoraa/JavaMusicApp.git)**  
+🔹 Una aplicación para gestionar canciones, álbumes y artistas.  
+🔹 **Objetivo:** Aplicar POO y trabajar con estructuras de datos en Java.  
+🔹 **Tecnologías:** Java, Colecciones, Archivos  
 
-## 🎯 Mis objetivos actuales  
-- Aprender más sobre **Java** y sus bibliotecas principales.  
-- Entender cómo funcionan las **bases de datos**.  
-- Empezar a trabajar en proyectos sencillos para practicar lo aprendido en clase.  
----
-## 🎵 Mis aficiones  
-- Me encanta la **música**, siempre estoy buscando nuevas canciones y estilos para explorar. 🎧  
-- Soy fan del **anime**, y me encanta la cultura japonesa. 🌸  
----
-
-## 📬 Conecta conmigo  
-- **Correo:** [rocio.mora.garcia02@gmail.com]  
-- **LinkedIn:** ([https://linkedin.com/in/rociiomoraa]())  
+### 🌌 **[Celestial War](https://github.com/rociiomoraa/CelestialWar.git)**  
+🪐 Un épico juego de exploración y combate espacial en Java.  
+🔹 **Historia:** Juegas como **Astra**, la última heredera del Trono Celestial, en una misión para restaurar el equilibrio del universo.  
+🔹 **Objetivo:** Aplicar estructuras de datos, mecánicas de juego y lógica en Java.  
+🔹 **Tecnologías:** Java, Programación Orientada a Objetos, Persistencia de datos.  
 
 ---
 
-## 🌟 Algo más sobre mí  
-Aunque estoy comenzando, tengo muchas ganas de aprender y mejorar cada día. ¡Estoy abierta a sugerencias y consejos de otros desarrolladores! 😊  
+## 🎯 Objetivos actuales  
+
+✔️ Perfeccionar mis conocimientos en **Java** y explorar nuevas bibliotecas.  
+✔️ Aprender sobre **bases de datos** y su integración con aplicaciones.  
+✔️ Seguir creando proyectos interesantes y desafiantes.  
+✔️ Mejorar mi manejo de **Git y GitHub** para la gestión de proyectos.  
+
+---
+
+## 🎵 Un poco sobre mí  
+
+🎧 Amo la **música**, siempre estoy explorando nuevos géneros y canciones.  
+🌸 Me encanta el **anime** y la cultura japonesa.  
+💻 Disfruto aprender cosas nuevas y desarrollar proyectos que me reten.  
+
+---
+
+## 📬 ¡Conectemos!  
+
+📧 **Correo:** [rocio.mora.garcia02@gmail.com](mailto:rocio.mora.garcia02@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/rociiomoraa](https://linkedin.com/in/rociiomoraa)  
+
+---
+
+## 🚀 Gracias por visitar mi perfil  
+
+💡 **Estoy siempre abierta a sugerencias y colaboraciones**. Si te interesa mi trabajo, no dudes en contactarme. ¡Nos vemos en GitHub! 😊  
 
