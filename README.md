@@ -58,6 +58,7 @@ Siempre estoy aprendiendo, experimentando y creando proyectos para mejorar mis h
 
 📧 **Correo:** [rocio.mora.garcia02@gmail.com](mailto:rocio.mora.garcia02@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/rociiomoraa](https://linkedin.com/in/rociiomoraa)  
+📸 **Instagram:** [instagram.com/rociiomoraa_](https://www.instagram.com/rociiomoraa_)  
 
 ---
 
